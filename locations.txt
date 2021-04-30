@@ -1,0 +1,13 @@
+McHenry Library+Child Curriculum=CURRIC
+McHenry Library+McH Protect Oversize=PROTECT;OVERSIZE
+McHenry Library+McH Protect=PROTECT
+McHenry Library+McH Ref Desk=REF;DESK
+McHenry Library+McH Ref=REF
+McHenry Library+McH Stacks Oversize=OVERSIZE
+McHenry Library+McHenry Current Journals=Journals
+McHenry Library+Microform=MICROFRM
+McHenry Library+Spec Coll=Spec Coll
+Science & Engineering Library+East Asian Collection=EAST;ASIAN
+Science & Engineering Library+S&E Current Journals=Journals
+Science & Engineering Library+S&E Games=S&E LIB;GAMES
+Science & Engineering Library+S&E Protect=S&E LIB; PROTECT
