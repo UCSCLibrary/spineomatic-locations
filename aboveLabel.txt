@@ -11,5 +11,7 @@ McHenry Library+Spec Coll=Spec Coll
 Science & Engineering Library+East Asian Collection=EAST;ASIAN
 Science & Engineering Library+S&E Current Journals=Journals
 Science & Engineering Library+S&E Games=S&E LIB;GAMES
-Science & Engineering Library+S&E Protect=S&E LIB; PROTECT
+Science & Engineering Library+S&E Oversize Atlas=S&E LIB;OVERSIZE;ATLAS
+Science & Engineering Library+S&E Protect=S&E LIB;PROTECT
 Science & Engineering Library+S&E Stacks Oversize=S&E LIB;OVERSIZE
+
